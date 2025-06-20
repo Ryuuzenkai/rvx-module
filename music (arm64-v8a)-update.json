@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (258)",
-  "versionCode": 258,
-  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/258/music-revanced-magisk-v8.05.51-arm64-v8a.zip",
+  "version": "v8.05.51 (patches 5.28.0)",
+  "versionCode": 259,
+  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/259/music-revanced-magisk-v8.05.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Ryuuzenkai/rvx-module/update/build.md"
 }
