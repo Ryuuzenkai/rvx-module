@@ -1,6 +1,6 @@
 {
-  "version": "v7.31.0.764984055 (257)",
-  "versionCode": 257,
-  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/257/googlephotos-revanced-magisk-v7.31.0.764984055-arm-v7a.zip",
+  "version": "v7.35.0.774533729 (patches 5.29.0)",
+  "versionCode": 260,
+  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/260/googlephotos-revanced-magisk-v7.35.0.774533729-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Ryuuzenkai/rvx-module/update/build.md"
 }
