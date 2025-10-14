@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.42.1)",
-  "versionCode": 274,
-  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/274/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.43.0)",
+  "versionCode": 275,
+  "zipUrl": "https://github.com/Ryuuzenkai/rvx-module/releases/download/275/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/Ryuuzenkai/rvx-module/update/build.md"
 }
